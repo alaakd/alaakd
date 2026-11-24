@@ -1,5 +1,5 @@
 # Alaa Kirdi  
-### Computer Science · John Abbott College
+### Computer Science · John Abbott College · 2023-2026
 
 I love combining precise, well-structured code with soft, thoughtful design.  
 This space is where my projects, experiments, and ideas come together.
@@ -8,13 +8,13 @@ This space is where my projects, experiments, and ideas come together.
 
 ## About Me
 
-I’m a Computer Science student at John Abbott College in my 3rd year with a strong interest in building clear, well-organized applications that feel good to use.
+I graduated from **John Abbott College** in **Computer Science** in 2026 and am now pursuing a degree in **Actuarial Mathematics** at **Concordia University**.
 
-I enjoy **math** and **statistics**, and I naturally gravitate toward work that requires precision, structure, and attention to detail.  
-At the same time, I care deeply about **design**, layouts, colors, and how everything fits together.
+I have a strong interest in **mathematics**, **statistics**, and **problem-solving**. I enjoy working on tasks that require precision, structure, and attention to detail.
 
-In my projects, I try to balance both sides:  
-a strong logical foundation underneath and a soft, clean interface on top.
+I also have an interest in **design**, particularly layouts, colors, and creating clean, well-organized applications.
+
+I enjoy combining my background in **computer science** with my growing knowledge of **mathematics and statistics** to approach problems from both a logical and creative perspective.
 
 ---
 
@@ -27,7 +27,8 @@ a strong logical foundation underneath and a soft, clean interface on top.
 - Node.js & Express  
 - MongoDB  
 - Kotlin & Jetpack Compose  
-- Python  
+- Python
+- R
 
 ### Concepts & Practices
 - MVC / MVP / MVVM  
